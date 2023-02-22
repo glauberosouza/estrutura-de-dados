@@ -2,3 +2,6 @@
 bin/EstruturaDeDados.class
 bin/projetono/Main.class
 bin/projetono/No.class
+bin/pilhas/Pilha.class
+bin/pilhas/Main.class
+bin/pilhas/NoPilha.class
