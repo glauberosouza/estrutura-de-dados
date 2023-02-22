@@ -1,7 +1,5 @@
 package pilhas;
 
-import javax.management.ReflectionException;
-
 public class Pilha {
 
     private NoPilha reNoPilhaEntrada;
@@ -16,13 +14,11 @@ public class Pilha {
 
     public NoPilha pop() {
         if (!this.isEmpty()) {
-            //Verificar o erro.
             NoPilha noPoped = reNoPilhaEntrada;
             reNoPilhaEntrada = reNoPilhaEntrada.getRefNo();
     }
         return null;
     }
-
     public void push(NoPilha novoNo) {
         NoPilha reAuxiliar = reNoPilhaEntrada;
         reNoPilhaEntrada = novoNo;

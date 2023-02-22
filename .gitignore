@@ -5,3 +5,6 @@ bin/projetono/No.class
 bin/pilhas/Pilha.class
 bin/pilhas/Main.class
 bin/pilhas/NoPilha.class
+bin/filas/NoFila.class
+bin/filas/Main.class
+bin/filas/Fila.class
