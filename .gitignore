@@ -8,3 +8,9 @@ bin/pilhas/NoPilha.class
 bin/filas/NoFila.class
 bin/filas/Main.class
 bin/filas/Fila.class
+bin/listasduplamenteencadeadas/NoDuplo.class
+bin/listasduplamenteencadeadas/Main.class
+bin/listasduplamenteencadeadas/ListaDuplamenteEncadeada.class
+bin/listaencadeada/No.class
+bin/listaencadeada/Main.class
+bin/listaencadeada/ListaEncadeada.class
