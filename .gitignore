@@ -14,3 +14,11 @@ bin/listasduplamenteencadeadas/ListaDuplamenteEncadeada.class
 bin/listaencadeada/No.class
 bin/listaencadeada/Main.class
 bin/listaencadeada/ListaEncadeada.class
+bin/arvore/ArvoreBinaria.class
+bin/arvore/BinNo.class
+bin/arvore/Main.class
+bin/arvore/model/Obj.class
+bin/arvore/model/ObjArvore.class
+bin/listascirculares/ListaCircular.class
+bin/listascirculares/Main.class
+bin/listascirculares/No.class
